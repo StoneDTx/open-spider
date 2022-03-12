@@ -52,19 +52,29 @@
 
 ## UI 展示
 
-(待续未完)
+![输入图片说明](https://gitee.com/stonedtx/open-spider/raw/master/ProIMG/main-page.png)
+
+![输入图片说明](https://gitee.com/stonedtx/open-spider/raw/master/ProIMG/web-site.png)
+
+![输入图片说明](https://gitee.com/stonedtx/open-spider/raw/master/ProIMG/my-spider.png)
+
 
 
 ## 在线体验
 
 (待续未完)
 
+演示地址：https://gitee.com/stonedtx/open-spider
+
+演示账号/密码：13900000000/stonedt
+
+
 
 ## 安装教程
 (待续未完)
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  .... 
+2.  .... 
+3.  .... 
 
 
 
@@ -100,6 +110,9 @@
    
    对组织和用户、方案配置、用户日志 等，提供了一套管理后台。
 
+- **[spider-flow](https://gitee.com/ssssssss-team/spider-flow)** 
+
+<br>
 
 ## 产品经理微信
    扫描微信二维码，技术交流。
